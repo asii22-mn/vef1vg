@@ -453,3 +453,20 @@ iframe {
         transition: none;
     }
 }
+
+.photo-caption {
+    margin-top: 12px;
+    font-size: 13px;
+    color: var(--muted);
+}
+.photo-sources {
+    max-width: 1000px;
+    margin: 50px auto;
+    padding: 0 6%;
+}
+.photo-sources h1 {
+    font-size: clamp(36px, 5vw, 60px);
+}
+.photo-sources li {
+    margin: 35px 0;
+}

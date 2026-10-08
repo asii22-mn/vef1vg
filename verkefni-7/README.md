@@ -12,7 +12,7 @@ python3 -m http.server 8000
 
 Opnaðu `/verkefni-7/index.html` í vafra. Forsíðumyndir hverfa þegar skjábreidd er 600 px eða minni. Myndir á undirsíðum haldast sýnilegar og laga sig að skjástærð.
 
-Myndirnar eru staðbundnar SVG-landslagsteikningar gerðar fyrir verkefnið, ekki ljósmyndir staðanna. Google Maps kortið þarfnast nettengingar.
+Myndirnar eru staðbundnar ljósmyndir frá Wikimedia Commons. Höfundar og leyfi eru skráð á `myndheimildir.html`. Myndin við Gljúfrastein sýnir Mosfellsdal, ekki húsið sjálft. Google Maps kortið þarfnast nettengingar.
 
 ## GitHub Pages
 
